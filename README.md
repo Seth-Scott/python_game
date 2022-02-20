@@ -22,7 +22,7 @@
   <p align="center">
     Classic Snake game, recreated in Python using the Turtle library
     <br />
-    <a href="https://github.com/Seth-Scott/snake_game><strong>Explore the docs</strong></a>
+    <a href="https://github.com/Seth-Scott/snake_game"><strong>Explore the docs</strong></a>
     <br />
     <br />
     <a href="https://github.com/Seth-Scott/snake_game/issues"><Report Bug</a>
@@ -76,8 +76,7 @@ $ python3.10 -m venv venv
 ```
 5. Launch the virtual environment:
 ```
-cd ./venv/bin/
-source activate
+source ./venv/bin/activate
 ```
 6. launch the game!
 ```
